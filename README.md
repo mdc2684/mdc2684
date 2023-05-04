@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mdc2684/mdc2684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
